@@ -1,0 +1,13 @@
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.exe
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.deps.json
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.runtimeconfig.json
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.runtimeconfig.dev.json
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.dll
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\bin\Debug\netcoreapp3.1\OuchThatIsSharp.pdb
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.csprojAssemblyReference.cache
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.AssemblyInfoInputs.cache
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.AssemblyInfo.cs
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.csproj.CoreCompileInputs.cache
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.dll
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.pdb
+C:\Users\jstag\Documents\GitHub\OuchThatIsSharp\obj\Debug\netcoreapp3.1\OuchThatIsSharp.genruntimeconfig.cache
